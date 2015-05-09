@@ -1,0 +1,2 @@
+module JosaHelper
+end
